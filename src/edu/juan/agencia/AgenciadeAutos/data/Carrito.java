@@ -4,7 +4,7 @@ package edu.juan.agencia.AgenciadeAutos.data;
  *
  * Esta clase representa un carrito de compra.
  * Se encarga de almacenar el auto seleccionado
- * y generar el ticket de compra.
+ * y generar el ticket de la compra.
  */
 public class Carrito {
 

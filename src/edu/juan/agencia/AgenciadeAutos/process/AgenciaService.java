@@ -127,7 +127,7 @@ public class AgenciaService {
     /**
      *
      * Este método muestra un menú genérico de opciones
-     * @param sc lector de datos
+     * @param sc lector de losdatos
      * @param titulo título del menú
      * @param opciones opciones disponibles
      * @return opción seleccionada

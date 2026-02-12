@@ -73,7 +73,7 @@ public class Auto {
 
     /**
      *
-     * Este método muestra en consola la información del automóvil
+     * Este método muestra en consola la información del auto
      * @return
      */
     public void mostrar() {

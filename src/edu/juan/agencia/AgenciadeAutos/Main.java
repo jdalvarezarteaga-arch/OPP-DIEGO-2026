@@ -4,7 +4,7 @@ import edu.juan.agencia.AgenciadeAutos.ui.CLI;
 /**
  *
  * Clase principal del sistema.
- * Es el único punto de inicio de la aplicación.
+ * Es el único punto de inicio de la aplicación..
  */
 public class Main {
 
