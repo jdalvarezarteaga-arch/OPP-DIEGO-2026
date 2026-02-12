@@ -52,7 +52,7 @@ public class Auto {
     /**
      *
      * Constructor del automóvil
-     * @param marca marca del auto
+     * @param marca marca de auto
      * @param anio año del auto
      * @param acabado tipo de acabado
      * @param llantas tipo de llantas

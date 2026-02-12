@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  *
  * Esta clase representa la interfaz de usuario por consola (CLI).
- * Se encarga de mostrar el menú principal y recibir las opciones del usuario.
+ * Se encarga de mostrar el menú principal y recibir las opciones de usuario.
  */
 public class CLI {
 
