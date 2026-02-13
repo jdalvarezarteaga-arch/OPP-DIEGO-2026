@@ -10,7 +10,7 @@ import java.util.HashMap;
  * Utilidades para operar sobre listas de {@link Empleado}.
  *
  * <p>Proporciona métodos para obtener el empleado con mayor salario,
- * calcular estadísticas de edad y salario, y filtrar o contar empleados
+ * calcular la estadísticas de edad y salario, y filtrar o contar empleados
  * según condiciones específicas.</p>
  */
 public class Lista_de_empleados {

@@ -18,7 +18,7 @@ public class Test_listas {
     }
 
     @Test
-    public void Test_contar_los_pares() {
+    public void Test_contar_todos_los_pares() {
         int[] input = {3, 4, 5, 7, 6};
         int esperado = 2;
         int expected = programa.contarpares(input);

@@ -5,6 +5,7 @@ public class Empleado {
     private String departamento;
 
 
+
     public Empleado(double salario, int edad, String departamento) {
         this.salario = salario;
         this.edad = edad;

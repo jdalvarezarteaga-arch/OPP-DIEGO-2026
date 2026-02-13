@@ -17,7 +17,7 @@ public class Test_lista_de_empleados {Lista_de_empleados programa = new Lista_de
     );
 
     @Test
-    public void mayor_de_salario() {
+    public void mayor_de_el_salario() {
         Empleado resultado = programa.mayorsalario(listaPrueba);
         assertEquals(40000.0, resultado.getSalario(), 0.001);
     }

@@ -4,7 +4,7 @@ package edu.juan.agencia.Actividad3.process;
  * Utilidades para operaciones simples sobre cadenas de texto.
  *
  * <p>Proporciona métodos para verificar si un texto es palíndromo
- * y para contar las vocales en una cadena.</p>
+ * y para contar las vocales en una sola cadena.</p>
  */
 public class Strings {
 

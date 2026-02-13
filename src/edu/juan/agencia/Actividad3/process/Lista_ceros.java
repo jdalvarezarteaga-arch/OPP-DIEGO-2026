@@ -2,7 +2,7 @@ package edu.juan.agencia.Actividad3.process;
 /**
  * Utilidades para operar sobre arreglos de enteros.
  *
- * <p>Proporciona métodos para mover los ceros al final de un arreglo
+ * <p>Proporciona métodos para poder mover los ceros al final de un arreglo
  * y para contar los números pares en un arreglo.</p>
  */
 public class Lista_ceros {

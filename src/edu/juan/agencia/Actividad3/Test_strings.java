@@ -19,7 +19,7 @@ public class Test_strings {
         assertFalse(resultado);
     }
     @Test
-    public void testContarVocales() {
+    public void test_Contar_Vocales() {
         assertEquals(3, programa.contarVocales("Chicharron"));
 
         assertEquals(4, programa.contarVocales("America"));
